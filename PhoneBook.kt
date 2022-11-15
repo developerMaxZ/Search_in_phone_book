@@ -24,5 +24,5 @@ class PhoneBook {
 
 fun main() {
     val binSer = PhoneBook()
-    binSer.fillingOutThePhoneBookAndPrint("./src/main/txt_materials/Phone_book.txt")
+    binSer.fillingOutThePhoneBookAndPrint("./Phone_book.txt")
 }
